@@ -5,16 +5,7 @@
 [Tt]est[Rr]esult*
 *mono_crash*
 /**/wwwroot
-
-# User-specific files
-*.rsuser
-*.suo
-*.user
-*.userosscache
-*.sln.docstates
-
-# User-specific files (MonoDevelop/Xamarin Studio)
-*.userprefs
+.vs
 
 # Build results
 [Dd]ebug/
@@ -29,13 +20,6 @@ bld/
 [Bb]in/
 [Oo]bj/
 [Ll]og/
-
-# Visual Studio 2017 auto generated files
-Generated\ Files/
-
-# MSTest test Results
-[Tt]est[Rr]esult*/
-[Bb]uild[Ll]og.*
 
 # NUNIT
 *.VisualState.xml
