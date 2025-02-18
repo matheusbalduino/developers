@@ -1,11 +1,11 @@
 /**/bin/
 /**/obj
 /**/packages
-/.vs
+.vs
 [Tt]est[Rr]esult*
 *mono_crash*
 /**/wwwroot
-.vs
+
 
 # Build results
 [Dd]ebug/
